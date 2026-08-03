@@ -86,3 +86,10 @@ docs/plans/
 docs/*
 !docs/wiki/
 !docs/wiki/*.md
+opencode.json
+
+# 🔥 本地调试与发布验证产物（不入库）
+/.external/
+/.local/
+report.md
+docs/releases/raw/
